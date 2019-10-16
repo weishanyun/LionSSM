@@ -7,60 +7,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="697ba4ca-47b7-4c2f-aeae-136e14cf0274" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/LionSSM_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/LionSSM_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/LionSSM_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/LionSSM_war_exploded/WEB-INF/classes/com/soft/lion/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/LionSSM_war_exploded/WEB-INF/classes/com/soft/lion/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft/lion/mapper/UserMapper.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/soft/lion/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft/lion/mapper/UserMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft/lion/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft/lion/pojo/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/classes/SqlMapConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/classes/applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/classes/com/soft/lion/controller/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/classes/com/soft/lion/mapper/UserMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/classes/com/soft/lion/mapper/UserMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/classes/com/soft/lion/pojo/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/classes/com/soft/lion/service/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/classes/com/soft/lion/service/impl/UserServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/classes/db.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/classes/generatorConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/classes/springmvc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/lib/aopalliance-1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/lib/aspectjweaver-1.8.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/lib/commons-fileupload-1.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/lib/commons-io-1.3.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/lib/druid-1.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.4.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.4.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.4.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/lib/log4j-1.2.17.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/lib/mybatis-3.2.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/lib/mybatis-generator-core-1.3.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/lib/mybatis-spring-1.2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.32.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.6.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/lib/slf4j-log4j12-1.6.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-4.2.4.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/lib/spring-aspects-4.2.4.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-4.2.4.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/lib/spring-context-4.2.4.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/lib/spring-context-support-4.2.4.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/lib/spring-core-4.2.4.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-4.2.4.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-4.2.4.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/lib/spring-jms-4.2.4.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/lib/spring-messaging-4.2.4.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-4.2.4.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/lib/spring-web-4.2.4.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.2.4.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LionSSM-1.0-SNAPSHOT/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/soft/lion/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft/lion/mapper/UserMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/soft/lion/pojo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft/lion/pojo/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SqlMapConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft/lion/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft/lion/mapper/UserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft/lion/mapper/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft/lion/pojo/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft/lion/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft/lion/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/generatorConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/springmvc.xml" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -91,6 +55,7 @@
         <option value="spring-beans.schema" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="XML Properties File" />
       </list>
     </option>
   </component>
@@ -123,6 +88,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -132,10 +98,12 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="spring" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\wwwroot\LionSSM\src\main\resources" />
+      <recent name="D:\wwwroot\LionSSM\src" />
       <recent name="D:\wwwroot\LionSSM\src\main\webapp\WEB-INF" />
     </key>
   </component>
@@ -498,7 +466,7 @@
       <workItem from="1571132916398" duration="5872000" />
       <workItem from="1571141525854" duration="413000" />
       <workItem from="1571141962227" duration="598000" />
-      <workItem from="1571196526749" duration="8302000" />
+      <workItem from="1571196526749" duration="10483000" />
     </task>
     <task id="LOCAL-00001" summary="更新版本">
       <created>1571206926126</created>
@@ -507,7 +475,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571206926126</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="更新版本">
+      <created>1571226866765</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571226866765</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
