@@ -1,7 +1,9 @@
 package com.soft.lion.pojo;
 
 public class User {
+
     private int uid = 0;
+
     private String username = null;
 
     public int getUid() {
