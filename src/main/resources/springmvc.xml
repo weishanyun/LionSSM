@@ -8,10 +8,10 @@
 						http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc-4.2.xsd">
 
     <!-- 配置扫描注解  @Controller @Service -->
-    <context:component-scan base-package="com.soft.lion" />
+    <context:component-scan base-package="com.soft.lion"/>
 
     <!-- SpringMVC使用<mvc:annotation-driven>自动加载RequestMappingHandlerMapping和RequestMappingHandlerAdapter -->
-    <mvc:annotation-driven />
+    <mvc:annotation-driven/>
 
     <!-- 配置静态资源映射 -->
     <!--
@@ -24,9 +24,9 @@
     <!-- 配置视图解析器-->
     <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
         <!-- 配置逻辑视图的前缀 -->
-        <property name="prefix" value="/WEB-INF/jsp/" />
+        <property name="prefix" value="/WEB-INF/jsp/"/>
         <!-- 配置逻辑视图的后缀 -->
-        <property name="suffix" value=".jsp" />
+        <property name="suffix" value=".jsp"/>
     </bean>
 
 </beans>

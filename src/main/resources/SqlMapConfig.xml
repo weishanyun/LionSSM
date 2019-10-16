@@ -5,7 +5,7 @@
 
 <configuration>
     <!-- 给实体类起别名 -->
-    <typeAliases >
+    <typeAliases>
         <package name="com.xiao.pojo"/>
     </typeAliases>
 
