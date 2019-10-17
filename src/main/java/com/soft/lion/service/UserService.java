@@ -1,6 +1,6 @@
 package com.soft.lion.service;
 
-import com.soft.lion.pojo.User;
+import com.soft.lion.model.User;
 
 import java.util.List;
 

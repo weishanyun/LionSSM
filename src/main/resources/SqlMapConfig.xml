@@ -6,7 +6,7 @@
 <configuration>
     <!-- 给实体类起别名 -->
     <typeAliases>
-        <package name="com.xiao.pojo"/>
+        <package name="com.soft.lion.model"/>
     </typeAliases>
 
 </configuration>

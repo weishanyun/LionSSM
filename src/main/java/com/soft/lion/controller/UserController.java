@@ -1,6 +1,6 @@
 package com.soft.lion.controller;
 
-import com.soft.lion.pojo.User;
+import com.soft.lion.model.User;
 import com.soft.lion.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
@@ -15,9 +15,9 @@ public class UserController {
     private UserService userService;
 
     @RequestMapping("/getAll")
-    public String getAllUser(Model model) throws Exception {
-        List<User> userList = userService.getAll();
-        model.addAttribute("userList", userList);
+    public String getAll(Model model) throws Exception {
+//        List<User> userList = userService.getAll();
+//        model.addAttribute("userList", userList);
         return "userList";
     }
 }
